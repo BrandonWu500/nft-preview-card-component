@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/BrandonWu500/nft-preview-card-component](https://github.com/BrandonWu500/nft-preview-card-component)
+- Live Site URL: [https://brandonwu500.github.io/nft-preview-card-component/](https://brandonwu500.github.io/nft-preview-card-component/)
 
 ## My process
 
@@ -46,5 +46,5 @@ getting the cyan hover effect on the image with the view icon was fun to get wor
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Brandon Wu](https://github.com/BrandonWu500)
+- Frontend Mentor - [@BrandonWu500](https://www.frontendmentor.io/profile/BrandonWu500)
